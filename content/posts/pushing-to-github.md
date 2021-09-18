@@ -1,6 +1,6 @@
 ---
 title: "Pushing to GitHub"
-date: 2021-09-18
+date: 2021-09-12
 showDate: true
 draft: false
 tags: ["code","GitHub","Pavel"]
