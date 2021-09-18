@@ -6,7 +6,7 @@ draft: false
 tags: ["code","GitHub","Pavel"]
 ---
 
-Pavel showed me hot to do this:
+Pavel showed me how to do this:
 
 0. внести изменения в страницах или файлах
 Terminal:
