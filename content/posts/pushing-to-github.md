@@ -1,18 +1,20 @@
 ---
 title: "Pushing to GitHub"
-date: 2018-02-13T12:21:57-05:00
-
+date: 2021-09-18
+showDate: true
+draft: false
+tags: ["code","GitHub","Pavel"]
 ---
 
-`code` `GitHub` `Паша`
+Pavel showed me hot to do this:
 
-Terminal:
 0. внести изменения в страницах или файлах
+Terminal:
 1. pwd — чтобы увидеть где ты находишься
 2. посмотреть путь в проект (сейчас "quickstart")
 3. cd quickstart/
 4. git status — чтобы посмотреть что поменялось
 5. git add %путь до папки или файла% (например content/) — добавляет изменения в коммит
-6.git commit -m "текст комментария" — добавляет комментарий и коммитит
+6. git commit -m "текст комментария" — добавляет комментарий и коммитит
 7. git push — отправляет коммит на GitHub
 
