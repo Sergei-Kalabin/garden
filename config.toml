@@ -22,8 +22,12 @@ pygmentsCodefences       = true
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "posts"
-    text = "narrative"
+    link = "garden"
+    text = "garden"
+    
+[[params.mainMenu]]
+    link = "notes"
+    text = "notes"
 
 [imaging]
     quality = 75
