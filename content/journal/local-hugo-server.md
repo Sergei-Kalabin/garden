@@ -3,10 +3,11 @@ title: "Local Hugo server"
 date: 2021-09-18
 showDate: true
 draft: false
-tags: ["code","Hugo","Pavel"]
+tags: ["code","Pavel"]
 ---
+[code](/tags/code) [Pavel](/tags/pavel)
 
-Pavel has tought me this.
+_[Pavel](https://pa2sh.club/) has tought me this:_
 
 I can preview changes to this garden on a local server and create a build that I will later push to GitHub when done.
 

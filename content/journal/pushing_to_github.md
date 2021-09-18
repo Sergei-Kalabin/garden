@@ -3,10 +3,11 @@ title: "Pushing to GitHub"
 date: 2021-09-12
 showDate: true
 draft: false
-tags: ["code","GitHub","Pavel"]
+tags: ["code","Pavel"]
 ---
+[code](/tags/code) [Pavel](/tags/pavel)
 
-Pavel showed me how to do this:
+_[Pavel](https://pa2sh.club/) has tought me this:_
 
 0. внести изменения в страницах или файлах
 Terminal:
