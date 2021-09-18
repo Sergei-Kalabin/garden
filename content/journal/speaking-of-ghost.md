@@ -1,5 +1,5 @@
 ---
-title: "Why Gardening?"
+title: "Speaking of Ghost"
 date: 2021-09-17
 showDate: true
 draft: false

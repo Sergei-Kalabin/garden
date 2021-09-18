@@ -1,5 +1,7 @@
 ---
 title: "Vocabulary"
+date: 2021-09-18
+showDate: false
 draft: false
 tags: ["symbolism","work"]
 ---
