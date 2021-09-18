@@ -11,6 +11,6 @@ This is an attempt at digital gardening. Why?
 
 As a student I was always mesmerized by the academic research process. Later in life researching things has become an important part of my day-job-career and now it becomes a cornerstone of my art practice, on par with systematization, symbolism, world-building and narrative. 
 
-Looking back at my social media habbits, I seem to have always leaned towards the work with the garage door open approach.
+Looking back at my social media habbits, it seems I have always leaned towards the work—with—the—garage—door—open approach.
 
 This is an attempt at digital gardening. 
