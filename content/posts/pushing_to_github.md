@@ -5,7 +5,6 @@ showDate: true
 draft: false
 tags: ["code","Pavel"]
 ---
-[code](/tags/code) [Pavel](/tags/pavel)
 
 _[Pavel](https://pa2sh.club/) has tought me this:_
 
