@@ -3,7 +3,7 @@ title: "Garden ❧"
 date: 2021-09-18
 
 ---
-_This is an attempt at digital gardening ([why](/journal/why-gardening/)). This garden was created with the help of [Pavel⇢](https://pa2sh.club/). This is a tool and a place. This garden uses `Call me Sam` theme for `Hugo`_
+_This is an attempt at digital gardening ([why](/posts/why-gardening/)). This garden was created with the help of [Pavel⇢](https://pa2sh.club/). This is a tool and a place. This garden uses `Call me Sam` theme for `Hugo`_
 
 # art practice
 _Across different media, here lies the body of work._
