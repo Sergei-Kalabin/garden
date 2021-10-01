@@ -16,8 +16,8 @@ Relationship of house and home (note: the same word is used for both conceprts i
 
 **References:**
 
-* Robert Winokur — [artist statement](https://kingsoaksart.com/robert-winokur/)
-* Polina Poludkina — «Отстутствие внутреннего дома»
+* Robert Winokur — [artist statement⇢](https://kingsoaksart.com/robert-winokur/)
+* Polina Poludkina — _«Отстутствие внутреннего дома»_
 
 ### Transition
 States of Transition and the Transition state itself.

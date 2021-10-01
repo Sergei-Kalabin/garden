@@ -12,3 +12,4 @@ tags: ["work", "collab"]
 * `2019` × Banal Rose
 * `2019` × OBDNNIE
 * `2019` × Kruzhok.Moscow
+* `2016` × Collaborative tarot deck
