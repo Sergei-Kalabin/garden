@@ -6,7 +6,7 @@ draft: false
 tags: ["code","Pavel"]
 ---
 
-_[Pavel](https://pa2sh.club/) has tought me this:_
+_[Pavel⇢](https://pa2sh.club/) has tought me this:_
 
 0. внести изменения в страницах или файлах
 Terminal:

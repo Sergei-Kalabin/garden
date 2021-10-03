@@ -19,7 +19,7 @@ _Across different media, here lies the body of work._
 * `2019` Transition Space — _`collab.` × [Alice Nikolaeva⇢](https://alicenikolaeva.com/Alice-Nikolaeva/CV)_
 * _`var.`_ AR / VR
 * _`var.`_ Poetry
-* * _`var.`_ Various imagery
+* _`var.`_ Various imagery
 
 # notes
 * [Vocabulary](/garden/vocabulary)

@@ -5,7 +5,7 @@ showDate: true
 draft: false
 tags: ["code","Pavel"]
 ---
-_[Pavel](https://pa2sh.club/) has tought me this:_
+_[Pavel⇢](https://pa2sh.club/) has tought me this:_
 
 I can preview changes to this garden on a local server and create a build that I will later push to GitHub when done.
 
