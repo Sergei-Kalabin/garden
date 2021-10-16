@@ -20,7 +20,7 @@ Relationship of house and home (note: the same word is used for both conceprts i
 * Polina Poludkina — _«Отстутствие внутреннего дома»_
 
 ### Transition
-States of Transition and the Transition state itself.
+States of Transition and the Transition state itself _(see [Liminality / Liminal spaces⇢](https://en.wikipedia.org/wiki/Liminality))_.
 
 ### Schemes
 Maps, instructions, manuals. — _Probably an attempt to understand and explain life._
