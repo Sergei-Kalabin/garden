@@ -16,11 +16,16 @@ _Across different media, here lies the body of work._
 * `2021 — n` All House, No Home
 *  _`var.`_ Material objects
 * `2019 — 2020` Sidenotes cycle
-* `2019` Transition Space — _`collab.` × [Alice Nikolaeva⇢](https://alicenikolaeva.com/Alice-Nikolaeva/CV)_
+* `2019` Transition Space — a _`collab.` × [Alice Nikolaeva⇢](https://alicenikolaeva.com/Alice-Nikolaeva/CV)_
 * _`var.`_ AR / VR
 * _`var.`_ Poetry
 * _`var.`_ Various imagery
+* `2016` [РЕПЦА zine](/garden/2016-reptsa)
 
 # notes
 * [Vocabulary](/garden/vocabulary)
 * In the Know
+
+# media
+* Books
+* Video Games

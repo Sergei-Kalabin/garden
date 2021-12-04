@@ -78,6 +78,7 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 ## Symbols: Conventional
 
 * ⊸Castle
+* ⊸Chains
 * ⊸Crown
 * ⊸Crookedness _(corruption)_
 * ⊸Flower
@@ -101,4 +102,4 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Ghost
 * ⊸King/Queen
 * ⊸Knight
-* ⊸Seeker
+* ⊸Seeker of truths
