@@ -20,6 +20,10 @@ Symbolic system is a map, but also a labirynth.
 
 * Digital liminality / nostalgia — _digital spaces evoking longing and nostalgia due to a generation growing up in digital environments as much as physical ones. Particular case is the liminality of multiplayer maps played in singleplayer and devoid of any NPCs. See Source Engine games and PS1 Era games for reference._
 
+* Dreaming — _I am used to having vivid and intricate dreams. This might actually be a reason why I have such a short REM phase? This in turn might explain why my brain resisted my lucid dreaming practices so much._
+
+* Dream Cartography — _I have an interest in compiling a chart of dream spaces._
+
 * Failure to do three — _Failure to make three things in a row is an attempt for immortality. ● Personal._
 
 * ⊸a Fracture — _a type of opening. See_ ⊸Openings and closures. **A fracture / a perfect moment:**
@@ -37,6 +41,8 @@ Light leaks out. ● Personal._
 * Glass tiles — _LIGHT LEAKS THROUGH, DISTORTED BUT BEAUTIFULL. ● Personal._
 
 * ⊸Half-shaped heart — _One of the aspects of ⊸Transition. See [image⇢](https://www.instagram.com/p/B5lANxQi27A/) for reference. ●Personal._
+
+* Hidden time — *Concept of concealed space applied to time, e.g. a Hidden Hour between one day and the next. Sometimes I stumble on my hidden minutes early in the moring, not yet completely awake. It feels like I'm dozing off for substantial time but in actuality only a minute passes.*
 
 * ⊸House (the) — _⩍ → ⌂
 Looking at doors for long enough eventually leads inside of the house.
@@ -73,6 +79,8 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 
 * ⊸Tower Inverted — _Inversion is a common method of conveying crookedness or corruption of an object (see reversed cross). Taken at face value and not in Tarot sence, a Tower Inverted is bizzare architecture with an uncertain meaning (architectural codes signal constuction's meaning). It also becomes a form of a ⊸Well. A particular example of such well is an inverted tower or an **Initiation Well** in the_ [Quinta da Regaleira⇢](https://en.wikipedia.org/wiki/Quinta_da_Regaleira) _in Sintra, Portugal, used for mason initiations. I have descended it during my trip to Lisbon. Anna-Varney of Sopor Aeternus feat refers to Inverted Tower in her song_ [Little Velveteen Knight⇢](https://songmeanings.com/songs/view/3530822107858538611/) _as an "unnameable place" — a Dark Place of one's subconscious._
 
+* Tricksterdom — _Yet, buddy, watch that last step._
+
 * ⊸[Know⇢](https://www.instagram.com/stories/highlights/18092344267086797/) _(in the)_ — _those on the same Quest as you, those who see the same Signs and chase the same Ghosts._
 
 ## Symbols: Conventional
@@ -90,6 +98,7 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Path _(Transition)_
 * ⊸Resonance
 * ⊸Repetition
+* ⊸Ruin
 * ⊸Silver
 * ⊸Tower _(see_ ⊸Tower Inverted)_
 * ⊸Time

@@ -12,7 +12,7 @@ _Across different media, here lies the body of work._
 * [Collaborations](/garden/collaborations)
 * Exhibitions
 
-**Works**
+**Work**
 * `2021 — n` All House, No Home
 *  _`var.`_ Material objects
 * `2019 — 2020` Sidenotes cycle
