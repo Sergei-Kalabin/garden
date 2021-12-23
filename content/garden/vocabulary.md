@@ -22,7 +22,7 @@ Symbolic system is a map, but also a labirynth.
 
 * Dreaming — _I am used to having vivid and intricate dreams. This might actually be a reason why I have such a short REM phase? This in turn might explain why my brain resisted my lucid dreaming practices so much._
 
-* Dream Cartography — _I have an interest in compiling a chart of dream spaces._
+* [Dream cartography](/garden/dream-cartography) — _I have an interest in compiling a chart of dream spaces._
 
 * Failure to do three — _Failure to make three things in a row is an attempt for immortality. ● Personal._
 
@@ -49,8 +49,6 @@ Looking at doors for long enough eventually leads inside of the house.
 Some houses have too many doors. ● Personal relationship with a conventional symbol._
 
 * ⊸Infinite Hotel – _originally a thought experiment by  David Hilbert, but meaningful for me as a `dream` location. Had a dream about civilisations of humans surviving by scavenging in an infinite hotel building._
-
-// `Couple of new symbols there related to dreams — calls for a separate page? Could help with Dream Map project.`
 
 * ⊸Light leaks through — _Yes. Openings and closures. ● Personal._
 

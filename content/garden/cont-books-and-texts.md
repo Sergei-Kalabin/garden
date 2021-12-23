@@ -9,7 +9,7 @@ draft: false
 * Piranesi — Susanna Clarke
 
 ## Comic books
-* Blame!
+* Blame! — Tsutomu Nihei
 
 ## Texts
 * Malkavian Book of Not — gamemaster notes
