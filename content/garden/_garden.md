@@ -26,13 +26,13 @@ _Across different media, here lies the body of work._
 * [Vocabulary](/garden/vocabulary)
 * In the Know
 * Study: ceramics
-* Study: jewelry and glyptics
+* [Study: jewelry and glyptics](/garden/study/jewelry)
 
 # dreams
 * [Dream cartography](/garden/dream-cartography)
 
 # resonant media
-* [Books and texts](/garden/cont-books-and-texts)
-* [Music](/garden/cont-music)
-* [Video games](/garden/cont-videogames)
-* [Video narrative](/garden/cont-movies)
+* [Books and texts](/garden/cont/books-and-texts)
+* [Music](/garden/cont/music)
+* [Video games](/garden/cont/videogames)
+* [Video narrative](/garden/cont/movies)
