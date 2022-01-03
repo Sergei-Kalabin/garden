@@ -92,6 +92,7 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * **⊸Garden**
 * **⊸House _(the)_**
 * ⊸[Labyrinth⇢](https://www.labyrinthdesigners.org)
+* ⊸Library
 * ⊸Map _(scheme)_
 * ⊸Path _(Transition)_
 * ⊸Resonance

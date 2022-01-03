@@ -5,9 +5,9 @@ draft: false
 ---
 
 * Persona 5 — Atlus
-* Cultist Simulator — Weatherfactory
+* Cultist Simulator — Weatherfactory [`⊸House`]((/garden/vocabulary))
 * Disco Elysium — ZA/UM
-* Beautiful Escape: Dungeoneer – Nicolau Chaud
+* Beautiful Escape: Dungeoneer – Nicolau Chaud [`⊸House`]((/garden/vocabulary))
 
 ## Ideas for games:
 * Sleep Party – ?
