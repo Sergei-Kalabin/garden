@@ -3,7 +3,7 @@ title: "Sidenote 2"
 date: 2022-01-03
 showDate: true
 draft: false
-tags: ["fleeting moment","feeling","symbolism","storytelling","bird","light"]
+tags: ["moment","feeling","bird","light"]
 ---
 
 There are golden scars in the evening sky. Familiar voice of miss Cantodea whispers sweet little nothings in my ear; the winter sun is crisp but gentle, as is the warmth emanating from miss Cantodea’s musical tomb.
