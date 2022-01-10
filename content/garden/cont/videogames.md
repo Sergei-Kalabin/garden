@@ -8,6 +8,7 @@ draft: false
 * Cultist Simulator — Weatherfactory [`⊸House`]((/garden/vocabulary))
 * Disco Elysium — ZA/UM
 * Beautiful Escape: Dungeoneer – Nicolau Chaud [`⊸House`]((/garden/vocabulary))
+* blasphemous — The Game Kitchen
 
 ## Ideas for games:
 * Sleep Party – ?
