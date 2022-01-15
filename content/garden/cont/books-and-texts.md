@@ -15,3 +15,6 @@ tags: ["house","storytelling","text","book"]
 
 ## Texts
 * Malkavian Book of Not — gamemaster notes
+
+## Narrative Podcasts
+* Magnus Archives — Rusty Quill
