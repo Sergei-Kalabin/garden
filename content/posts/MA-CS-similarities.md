@@ -16,6 +16,6 @@ One of the parallels is the *entities*: complex human aspects, like fears or des
 
 This and the resulting theme of *moderation*, that could also be seen in Disco Elysium with its character skills — low Empathy makes you an *"ungainly beast unable to talk to anyone without upsetting them"* while high Empathy *"you'll cry for their sorrows, punch walls to relieve their angers, and be an even more unstable cop"*.
 
-Another interesting observation is the kind of principles or aspects in both Magnus Archives and Cultist simulator — The Eye in the first and The Lantern in the latter. Both describe the *requirement to know* and resonate deeply with me.
+Another interesting observation is the kind of principles or aspects in both Magnus Archives and Cultist simulator that captivate me — The Eye in the first and The Lantern in the latter. Both describe the *requirement to know* and resonate deeply with me.
 
 I wonder if the same level of drama could be built on human graces, narrative-wise.
