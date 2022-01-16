@@ -2,6 +2,9 @@
 title: "In _the_ Know"
 showDate: false
 draft: false
-tags: ["symbolism","work"]
+tags: ["work"]
 ---
-[symbolism](/tags/symbolism) [work](/tags/work)
+
+* https://www.instagram.com/stories/highlights/18092344267086797/
+* https://www.labyrinthdesigners.org/
+* https://theconstructor.org/

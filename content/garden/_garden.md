@@ -24,7 +24,8 @@ _Across different media, here lies the body of work._
 
 # notes
 * [Vocabulary](/garden/vocabulary)
-* In the Know
+* [In the Know](/garden/in-the-know)
+* [Compilation of stairways](/garden/stairways)
 * Study: ceramics
 * [Study: jewelry and glyptics](/garden/study/jewelry)
 
