@@ -6,7 +6,7 @@ draft: false
 tags: ["storytelling","Magnus Archives","Cultist Simulator","principles"]
 ---
 
-I continue to explore resonating narratives, and while listening to Magnus Archives, I've noticed some obvious correlations with the work of Alexis Kennedy of the Weather Factory fame. Such as to make me think MAG to be heavy inspirational for the Cultist Simulator game.
+I continue to explore resonant narratives, and while listening to Magnus Archives, I've noticed some obvious correlations with the work of Alexis Kennedy of the Weather Factory fame. Such as to make me think MAG to be heavy inspirational for the Cultist Simulator game.
 
 > sidenote:
 > 
