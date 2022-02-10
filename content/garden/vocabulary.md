@@ -101,8 +101,9 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Silver
 * ⊸Tower _(see_ ⊸Tower Inverted)_
 * ⊸Time
+* ⊸Waters *of* Change
 * ⊸Well
-* ⊸Worm _(role?)_ _(conventional?)_
+* ⊸Worms
 
 
 ## Roles: Conventional
@@ -110,4 +111,5 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Ghost
 * ⊸King/Queen
 * ⊸Knight
+* ⊸Librarian
 * ⊸Seeker of truths

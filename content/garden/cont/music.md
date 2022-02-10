@@ -18,7 +18,7 @@ draft: false
 * [Funky playlist](https://open.spotify.com/playlist/76fxGJKij6f0uyZuKo1zL4?si=036c6bb425ce477e) — yep
 * [Grandpacore for knitting and relaxation  🧶🫖🪴](https://open.spotify.com/playlist/2U39YC6rdyKmpdvyrbjPIH?si=3c4a5ffc4d454304) — grandparentcore, warmcore and cottagecore vibes, chill and cheerful tunes for a sunny day in the garden
 * [Weaponized Anxiety](https://open.spotify.com/playlist/7KLj6CyANtKohsh0jpEf88?si=8af68c982472447e) — because fuck you
-* [pov: BBQ inside of your car](https://open.spotify.com/playlist/6BCk7z65wSU34amdCCwP9q?si=c72be742ad0e449b) — based on a true story
+* [pov: BBQ inside your car](https://open.spotify.com/playlist/6BCk7z65wSU34amdCCwP9q?si=c72be742ad0e449b) — based on a true story
 
 
 

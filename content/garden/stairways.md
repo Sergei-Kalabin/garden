@@ -22,6 +22,7 @@ _Splendor / star damage_
 * Stories
 * Taking notes
 * Making beautiful things
+* Talking to the right people
 
 ## ▃ Landing
 
@@ -31,6 +32,7 @@ _Healing / plateau_
 * Sketching out ideas
 * Mending and arranging notes
 * *Take a break. Breath in, breath out*
+* Smelling petrichor
 
 ## ▙ Downward
 
