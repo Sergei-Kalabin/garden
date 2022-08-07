@@ -12,15 +12,20 @@ _[Pavel⇢](https://pa2sh.club/) has tought me this:_
 0. login at `github.com`
 1. generate an SSH key. Paste `ssh-keygen -t ed25519 -C "your_email@example.com"` to Terminal, replace email ([github tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)).
 2. Add the new key to ssh config (~/.ssh/config):
+> Host *`
+> 
+> AddKeysToAgent yes`
+> 
+> IdentityFile ~/.ssh/gardenKey`
 
-`Host *`
-`AddKeysToAgent yes`
-`IdentityFile ~/.ssh/gardenKey`
-2. enter `cat ~/.ssh/gardenKey.pub` to print insides of the .pub file (public part of the key)
-3. copy contents to `github.com/settings/ssh/new` and add
+3. enter `cat ~/.ssh/gardenKey.pub` to print insides of the .pub file (public part of the key)
+4. copy contents to `github.com/settings/ssh/new` and add
 
 ### Part II — setting local repo
 0. clone repo using SSH at `github.com` (code dropdown)
-1. type `cd` to go to home dir
-2. type `git clone` + space + copied SSH address
-3. 
+1. type in `cd` to go to home dir
+2. type in `git clone` + space + copied SSH address
+3. type in:
+`sergei@Sergeis-MacBook-Pro garden % git config --global user.name "Sergei Kalabin"`
+4. type in:
+`sergei@Sergeis-MacBook-Pro garden % git config --global user.email "deltakatachre@gmail.com"`
