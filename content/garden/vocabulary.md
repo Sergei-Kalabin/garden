@@ -18,6 +18,8 @@ Symbolic system is a map, but also a labirynth.
 
 * ⊸Chair (empty) — _a symbol of a dead person's spirit and/or an opportunity to listen to what they have to say to mortals. A particular case is a_ **three-handled chair**: _a `dream` object, that human protagonist has trouble settling into because of the unusual ergonomics of three handles. Three-handlesness symbolises original owner's un-human, crooked nature (see: six fingered palm), in this dream – a demon (in a dream: namely Satan). A person trying to sit on it's chair was considered a claimant to it's powers and a challenger. ● Personal._
 
+* ⊸Choir — _Enchances the message. Especially the one in your head. _
+
 * Digital liminality / nostalgia — _digital spaces evoking longing and nostalgia due to a generation growing up in digital environments as much as physical ones. Particular case is the liminality of multiplayer maps played in singleplayer and devoid of any NPCs. See Source Engine games and PS1 Era games for reference._
 
 * Dreaming — _I am used to having vivid and intricate dreams. This might actually be a reason why I have such a short REM phase? This in turn might explain why my brain resisted my lucid dreaming practices so much._
@@ -87,7 +89,7 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Chains
 * ⊸Crown
 * ⊸Crookedness _(corruption)_
-* ⊸Flower
+* ⊸Flower / Floral
 * ⊸[Forest⇢](https://www.instagram.com/transition_space/)
 * **⊸Garden**
 * **⊸House _(the)_**
@@ -99,8 +101,10 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Repetition
 * ⊸Ruin
 * ⊸Silver
+* ⊸Song — _Art helps to reveal and ignite the truths. If the truth is then bright enough — either soothes or opens one's chest up._
 * ⊸Tower _(see_ ⊸Tower Inverted)_
 * ⊸Time
+* **⊸Veil _(the)_** — _Something is always covered._
 * ⊸Waters *of* Change
 * ⊸Well
 * ⊸Worms

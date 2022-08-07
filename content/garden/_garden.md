@@ -37,4 +37,4 @@ _Across different media, here lies the body of work._
 * [Music](/garden/cont/music)
 * [Video games](/garden/cont/videogames)
 * [Video narrative](/garden/cont/movies)
-* [Aclohol](/garden/cont/alcohol)
+* [Alcohol](/garden/cont/alcohol)
