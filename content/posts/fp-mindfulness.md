@@ -5,7 +5,7 @@ draft: false
 tags: ["work", "mindfulness"]
 ---
 
-_Disclaimer: Digitizing notes from paper notebooks_
+> _Disclaimer: Digitizing notes from paper notebooks_
 
 Secure some time in your everyday schedule to _do nothing in solitude_ — gives you a space to contemplate your life.
 

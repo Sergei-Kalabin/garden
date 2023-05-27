@@ -7,12 +7,14 @@ tags: ["symbolism","work"]
 ---
 [symbolism](/tags/symbolism) [work](/tags/work)
 
-` Order → A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+` Order → III II I / A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 `
 
 Symbolic system is a map, but also a labirynth.
 
-## Symbols: Personal and less conventional
+## Symbols: Part III
+
+* Ascetic defence — _A form of camouflage. A practice of reducing oneself in order to mimic the inanimate world and hide from the prying and the tempting._
 
 * Can't wake up _— ● Personal._
 
@@ -52,6 +54,8 @@ Some houses have too many doors. ● Personal relationship with a conventional s
 
 * ⊸Infinite Hotel – _originally a thought experiment by  David Hilbert, but meaningful for me as a `dream` location. Had a dream about civilisations of humans surviving by scavenging in an infinite hotel building._
 
+* Lack _of_ — _Truth exists as it is. It's the lies that are constructed._ 
+
 * ⊸Light leaks through — _Yes. Openings and closures. ● Personal._
 
 * ⊸Openings and closures — ① _Light leaks in and out of openings_
@@ -83,8 +87,9 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 
 * ⊸[Know⇢](https://www.instagram.com/stories/highlights/18092344267086797/) _(in the)_ — _those on the same Quest as you, those who see the same Signs and chase the same Ghosts._
 
-## Symbols: Conventional
+## Symbols: Parts I and II
 
+* 93/93 — _While secrecy and code are common tools of control, thelemites claim they use codes to allow for everyone to form a personal understanding. Similar to how in art it is necessary to leave space for interpretation._
 * ⊸Castle
 * ⊸Chains
 * ⊸Crown
@@ -92,28 +97,24 @@ _I snap out of this memory and stumble across some friends walking around. We ge
 * ⊸Flower / Floral
 * ⊸[Forest⇢](https://www.instagram.com/transition_space/)
 * **⊸Garden**
+* ⊸Ghost
 * **⊸House _(the)_**
+* ⊸King/Queen
+* ⊸Knight
 * ⊸[Labyrinth⇢](https://www.labyrinthdesigners.org)
 * ⊸Library
+* ⊸Librarian
 * ⊸Map _(scheme)_
 * ⊸Path _(Transition)_
 * ⊸Resonance
 * ⊸Repetition
 * ⊸Ruin
+* ⊸Seeker of truths
 * ⊸Silver
 * ⊸Song — _Art helps to reveal and ignite the truths. If the truth is then bright enough — either soothes or opens one's chest up._
 * ⊸Tower _(see_ ⊸Tower Inverted)_
 * ⊸Time
 * **⊸Veil _(the)_** — _Something is always covered._
-* ⊸Waters *of* Change
+* ⊸Waters _of_ Change
 * ⊸Well
 * ⊸Worms
-
-
-## Roles: Conventional
-
-* ⊸Ghost
-* ⊸King/Queen
-* ⊸Knight
-* ⊸Librarian
-* ⊸Seeker of truths

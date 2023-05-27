@@ -5,7 +5,7 @@ draft: false
 tags: ["work", "flow"]
 ---
 
-_Disclaimer: Digitizing notes from paper notebooks_
+> _Disclaimer: Digitizing notes from paper notebooks_
 
 ## _FLOW_
 — how to get into the _zone_.
