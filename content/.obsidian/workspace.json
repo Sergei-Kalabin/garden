@@ -16,30 +16,6 @@
             }
           },
           {
-            "id": "114f4caaff230dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "garden/tools/Language as a stylistic device.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "890b33c196575c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "garden/gamedev/Game ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5144909552ebf9db",
             "type": "leaf",
             "state": {
@@ -50,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "garden/gamedev/Game ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "garden/gamedev/Game ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "garden/gamedev/Game ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -187,6 +159,19 @@
   },
   "active": "5144909552ebf9db",
   "lastOpenFiles": [
+    "garden/tools/Surviving-the-Beauty.md",
+    "garden/tools/Language-as-a-stylistic device.md",
+    "garden/gamedev/Nature-Spirit-Stories/Nature-Spirit-Stories-Game.md",
+    "garden/gamedev/Nature-Spirit-Stories/Characters.md",
+    "garden/gamedev/Nature-Spirit-Stories/Mechanics-Stories.md",
+    "garden/gamedev/Nature-Spirit-Stories/Character-Nature-Spirit.md",
+    "garden/gamedev/Nature-Spirit-Stories/Character-Human-Child.md",
+    "garden/gamedev/Nature-Spirit-Stories",
+    "garden/gamedev/Nature Spirit Stories Game/Nature-Spirit-Stories-Game.md",
+    "garden/gamedev/Nature Spirit Stories Game/Mechanics-Stories.md",
+    "garden/gamedev/Nature Spirit Stories Game/Character-Nature-Spirit.md",
+    "garden/gamedev/Nature Spirit Stories Game/Character-Human-Child.md",
+    "garden/gamedev/game-ideas.md",
     "garden/gamedev/Nature Spirit Stories Game/Nature Spirit Stories Game.md",
     "garden/gamedev/Game ideas.md",
     "garden/tools/Surviving the Beauty.md",
@@ -201,8 +186,6 @@
     "garden/art-themes.md",
     "garden/_garden.md",
     "posts/210918-local-hugo-server.md",
-    "posts/_index.md",
-    "posts/210912-pushing-to-github.md",
-    "posts/230220-ephemera-essays-on-magical-realism-in-games.md"
+    "posts/_index.md"
   ]
 }
