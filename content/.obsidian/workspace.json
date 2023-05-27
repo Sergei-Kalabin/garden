@@ -159,6 +159,7 @@
   },
   "active": "5144909552ebf9db",
   "lastOpenFiles": [
+    "garden/tools/Language-as-a-stylistic-device.md",
     "garden/tools/Surviving-the-Beauty.md",
     "garden/tools/Language-as-a-stylistic device.md",
     "garden/gamedev/Nature-Spirit-Stories/Nature-Spirit-Stories-Game.md",
@@ -185,7 +186,6 @@
     "garden/2016-reptsa.md",
     "garden/art-themes.md",
     "garden/_garden.md",
-    "posts/210918-local-hugo-server.md",
-    "posts/_index.md"
+    "posts/210918-local-hugo-server.md"
   ]
 }

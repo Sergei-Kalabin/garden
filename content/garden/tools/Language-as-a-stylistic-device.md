@@ -7,10 +7,10 @@ German is used through menus and chapter title cards to reinforce the mechanical
 
 From:
 # Other media
-Different languages are commonly used to create the sense of otherness for the english speaking audience (probably considered to be a majority? or imperialism?). Usually asian languages.
+Different languages are commonly used to create the sense of otherness for the english speaking audience (considered to be a majority? or imperialism?). Usually asian languages.
 
 Above subverted. From:
 # AI: THE SOMNIUM FILES - nirvanA Initiative
 In the game one of MC get's hacked and sees cryptic messages. Interestingly, original version of the game uses japanese for both regular and hacked text, with hacked messages represented by mojibake (scrambled encoding) version of japanese — while english version keeps mojibake japanese for hacked messages.
 
-Footnote: Can be alienating to other cultures, see cyberpunk and orientalism.
+Footnote: Can be alienating to cultures, see cyberpunk and orientalism.
